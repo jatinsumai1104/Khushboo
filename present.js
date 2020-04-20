@@ -81,7 +81,7 @@ function init() {
         document.getElementById("questions").style.display = "block";
       }, 300);
     } else {
-      window.alert("Bas Kar na aur kitni tariff sunni h 😂");
+      window.alert("Oo Beta, Sunn Meri Batt bht hogya tera😂");
     }
   }, true);
 
